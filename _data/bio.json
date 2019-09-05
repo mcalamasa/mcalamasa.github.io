@@ -2,51 +2,40 @@
   "basics": {
     "name": "Marie Beth Calamasa",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/marie.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://mcalamasa.github.io/images/marie.jpg",
+    "email": "calamasa@hawaii.edu",
+    "phone": "",
+    "website": "https://mcalamasa.github.io",
+    "summary": "I am a student at the University of Hawaii at Manoa, majoring in Computer Engineering.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96786",
+      "city": "Wahiawa",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mcalamasa",
+        "url": "http://github.com/mcalamasa"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Marie Beth Calamasa",
+        "url": "http://linkedin.com/in/marie-beth-calamasa"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "cyber security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "web development",
       "keywords": [
       ]
     },
@@ -63,10 +52,7 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
         "Assembly",
-        "Common Lisp"
       ]
     },
     {
