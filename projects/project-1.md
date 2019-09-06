@@ -9,7 +9,7 @@ date: 2018-05-03
 labels:
   - C++
   
-summary: My team developed a text based cafe shop. OR Simon 
+summary: My team developed a text based cafè shop for EE 205 Object oriented programming.
 ---
 
 <div class="ui small rounded images">
