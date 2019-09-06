@@ -8,7 +8,7 @@ permalink: projects/mycafè
 date: 2018-05-03
 labels:
   - C++
-  - object oriented programming
+  - Object Oriented Programming
   
 summary: My team developed a text based cafè shop for EE 205, object oriented programming.
 ---
