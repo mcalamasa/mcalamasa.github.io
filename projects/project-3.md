@@ -10,6 +10,7 @@ labels:
   - Verilog
   - GitHub
   - Basys3 Board
+  - Vivado Xilinx
   
 summary: A Simon game implemented on a basys3 board for EE 396.
 ---
