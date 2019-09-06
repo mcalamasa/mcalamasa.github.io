@@ -17,7 +17,7 @@ summary: A ping pong game my team developed for our EE 396 project.
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-My team and I created a pong game by using a Basys3 board for our FPGA and a small monitor to show the graphics. We used Xilinx vivado to program the board and the monitor in verilog.
+My team and I created a pong game by using a Basys3 board as our FPGA and a small monitor to show the graphics. We used Xilinx vivado to program the board and the monitor in verilog.
 
 Pong is a one player ping pong game. Instead of bouncing the ball from one player to another, the user bounces the ball against the walls and prevents it from passing the bar. Of course, the game would be a bit boring if a doesn't get harder, so after the players score ereaches 100, the ball gets faster, and again at 300.
   
