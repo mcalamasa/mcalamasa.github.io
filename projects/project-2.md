@@ -22,6 +22,4 @@ summary: A ping pong game my team developed for our EE 396 project.
   
   We did a lot of research and small side projects just to understand the basic workings of a monitor. We went through a lot of trial and error, and spent a lot of time wondering why it wouldn't behave the way it ought to. I learned the great importance of physical team meetings, not only to make sure we're all working on the project, but also for better communication. I also got more familiar with verilog and programming a board/hardware. 
  
-You can see a [demo](https://www.youtube.com/watch?v=Zawv5S6NJwo&feature=youtu.be). 
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Here is a [demo](https://www.youtube.com/watch?v=Zawv5S6NJwo&feature=youtu.be). 
