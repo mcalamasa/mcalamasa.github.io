@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/cofee.png
 title: My Cafè
 permalink: projects/mycafè
 # All dates must be YYYY-MM-DD format!
