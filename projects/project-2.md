@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Ping Pong
-permalink: projects/vacay
+title: Pong
+permalink: projects/pong
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-26
 labels:
