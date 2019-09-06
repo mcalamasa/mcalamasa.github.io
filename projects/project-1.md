@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: My Cafè
-permalink: projects/micromouse
+permalink: projects/mycafè
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-03
 labels:
