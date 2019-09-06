@@ -10,6 +10,7 @@ labels:
   - Verilog
   - Basys3 Board
   - HDMI
+  
 summary: A ping pong game my team developed for our EE 396 project.
 ---
 
