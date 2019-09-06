@@ -9,7 +9,8 @@ date: 2019-08-26
 labels:
   - Verilog
   - Basys3 Board
-  - HDMI
+  - Vivado Xilinx
+  - Github
   
 summary: A ping pong game my team developed for our EE 396 project.
 ---
