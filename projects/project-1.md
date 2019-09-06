@@ -9,7 +9,7 @@ date: 2018-05-03
 labels:
   - C++
   
-summary: My team developed a text based cafè shop for EE 205.
+summary: My team developed a text based cafè shop for EE 205, object oriented programming.
 ---
 
 <div class="ui small rounded images">
@@ -19,10 +19,11 @@ summary: My team developed a text based cafè shop for EE 205.
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-
-My cafè imitates the services of an application of a store provides their customers. Overtime resutraunts and shops have made applications that allow their customers to view and shop for their items. This project does exactly that for an imaginary cafè. The user is able to see the menu and make an order. To replicate ordering from an actual cafè, the user can add or onmit ingredients and is provided with a recipt.
-
-My cafè communicates with the user with text. It is implemented with object oriented programming and runs on terminal. 
+  Overtime restaurants and shops have made applications that allow their customers to view and shop for their items. My cafè does just that, but for an imaginary cafè and communicates with the user using text. It is implemented with object oriented programming and runs on terminal.
+  
+  The user is able to see the menu and make an order. To replicate ordering from an actual cafè, the user can add or omit ingredients and is provided with a recipt containing the specifics and prices of their order. 
+  
+  
 
 
 
