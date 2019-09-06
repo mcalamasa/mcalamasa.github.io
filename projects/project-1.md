@@ -25,9 +25,3 @@ Overtime restaurants and shops have made applications that allow their customers
 The user is able to see the menu and make an order. To replicate ordering from an actual cafè, the user can add or omit ingredients and is provided with a recipt containing the specifics and prices of their order. 
   
 My team decided to use a divide and conquer technique. I learned to organize and adjust my code to be able to run with the rest of the teams code. Although we were working on different parts, we met regualerly to discuss problems and bounce ideas off each other. I was in charge of programming the user information. The user is either a customer or an owner of the cafè. The user is able to do things depending on which type they are.
-  
-  
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
