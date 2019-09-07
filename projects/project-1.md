@@ -13,13 +13,6 @@ labels:
 summary: My team developed a text based cafè shop for EE 205, object oriented programming.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
-
 Overtime restaurants and shops have made applications that allow their customers to view and shop for their items. My cafè does just that, but for an imaginary cafè and it communicates with the user using text. It is implemented with object oriented programming and runs on terminal.
   
 The user is able to see the menu and make an order. To replicate ordering from an actual cafè, the user can add or omit ingredients and is provided with a recipt containing the specifics and prices of their order. 
