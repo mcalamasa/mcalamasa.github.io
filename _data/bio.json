@@ -91,7 +91,34 @@
       ]
     }
   ],
- 
+ "work": [
+   {
+     "company": "Charlotte Russe",
+     "position": "Sales Associate",
+     "website": "",
+     "startDate": "2018",
+     "endDate": "2019",
+     "summary":"",
+     "highlights": [
+       "Make sure everything is neat and in its place.",
+       "Assist customers to and in the fitting room.",
+       "Greet and assist customers at the sals floor."
+     ],
+     
+   },
+   {
+     "company": "TacoBell",
+     "position": "Crew Member",
+     "website": "",
+     "startDate": "2014",
+     "endDate": "2016",
+     "summary":"",
+     "highlights": [
+       "Greet customers and take their order in both dining and drive thru.",
+       "Clean the dining area."
+     ],
+   }
+  ],
   "awards": [
     {
       "title": "B+ Scholarship",
