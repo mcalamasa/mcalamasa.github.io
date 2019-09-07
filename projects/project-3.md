@@ -5,7 +5,7 @@ image: images/basys3B.jpg
 title: Simon
 permalink: projects/simon
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-04-12
 labels:
   - Verilog
   - GitHub
