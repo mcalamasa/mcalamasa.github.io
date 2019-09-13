@@ -8,7 +8,7 @@ labels:
   - StockOverflow
   - Smart Questions
 ---
-
+<img class="ui medium left floated image" src="../images/rtfm.png">
 # Is there such a thing as a stupid question?
 There is one sentence many teachers have used over the years to encourage their students to seak help in class and that is "there's no such thing as a stupid question." This I agree with, every question is an effort to understand an aspect of the world. This sentence encourages people to ask questions no matter how silly they think it may be. It is very likely that there are others who many not know the answer to this "stupid question" and are too afraid to ask. The person asking the question not only help themselves, but also those who are also confused.
 
