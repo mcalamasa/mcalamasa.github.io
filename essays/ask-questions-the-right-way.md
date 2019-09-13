@@ -18,6 +18,7 @@ Eric Raymond's essay [How To Ask Questions The Smart Way](http://www.catb.org/es
 # A Smart Question
 [Here](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) is an example of a smart question. This developer is confused as to why a sorted array processes faster than an unsorted array. Not only did he make sure he was right by testing code in two different languages, but he also provide the code so others can test it out. The title is ppropriate and informative. This question is favorited by a high number of people and has an even higher number of people voting it up. It can be seen by the many lengthy explinations containing many visual help, it was recieved as a good question.
 # A Bad Question
+<img class="ui medium left floated image" src="../images/badQuestion1.png">
 [Here](https://stackoverflow.com/questions/44674997/or-c-struct-accessor) is an example of a bad question.
 # Why is it important for software engineers?
 I believe computer engineering brings many possibilities. By gaining lifelong learning skills, not only will I stay updated in software developments, but also with the younger generation. Hopefully I won't be totally confused with technology when I become a grandma. I am excited for all the experiences I will have with the people in my field. Overall, no matter the direction I take with software engineering, I hope to create products that I am proud of and can financially benefit me.
