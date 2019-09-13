@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Ask Questions The Right Way
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-06
+date: 2019-09-12
 labels:
   - StockOverflow
   - Smart Questions
