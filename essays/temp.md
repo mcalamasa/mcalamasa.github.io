@@ -1,22 +1,28 @@
 ---
 layout: essay
 type: essay
-title: Computers are the Future
+title: Ask Questions The Right Way
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
-  - Software Engineering
-  - Lifelong Learning 
-  - Cyber Security
+  - StockOverflow
+  - Smart Questions
 ---
 
-A contributing factor in my decision to major in computer engineering is my belief in computers being our future. Computers enable us to do so many things. The huge desktops they had way back when are incomparable to the small mobile devices we call cellphones. Not only were we able to shrink a computer to fractions of what they used to be, but its is also capable of many more things. 
+# Is there such a thing as a stupid question?
+There is one sentence many teachers have used over the years to encourage their students to seak help in class and that is "there's no such thing as a stupid question." This I agree with, every question is an effort to understand an aspect of the world. This sentence encourages people to ask questions no matter how silly they think it may be. It is very likely that there are others who many not know the answer to this "stupid question" and are too afraid to ask. The person asking the question not only help themselves, but also those who are also confused.
 
-# Lifelong Learning 
-With the ever evolving computers, it is important to gain lifelong learning skills. With all of the different programming languages we have now, it is important to efficiently learn new languages. Computer software knowledge only stays relevant for a couple of years before something new and better comes out. I want to be able to stay updated and learn languages efficiently.
+Though lets not say there are no illformatted questions. 
 
-# Skills
-There are so many possibilities with software engineering, thus there are so many things I am interested in. I am intrigued in cyber security. Our devices contain very important information about us and it is important to make sure no one's privacy is being invaded. I am also very interested in web and game development. I want to be able to make a responsive website, but more I want to develop apps. Whether they be game or informative apps, I want the to be buildable to continuously add features and updates. 
+First, search StackOverflow for a question submitted by a developer that demonstrates the “smart way”. Such a question should follow the precepts established by Raymond. In addition, the answers provided by the community should demonstrate that asking a question the smart way leads to both efficient and effective help.
 
-# Final Thoughts 
+Next, you will search for a question submitted by a different developer that demonstrates the “not smart way”. In other words, this question violates the principles established by Raymond. In addition, the answers provided by the community should demonstrate that asking a question in a “not smart” way does not lead to both effective and efficient help
+
+Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
+
+# What is the "smart way"?
+
+# Why is it important for software engineers?
 I believe computer engineering brings many possibilities. By gaining lifelong learning skills, not only will I stay updated in software developments, but also with the younger generation. Hopefully I won't be totally confused with technology when I become a grandma. I am excited for all the experiences I will have with the people in my field. Overall, no matter the direction I take with software engineering, I hope to create products that I am proud of and can financially benefit me.
+
+There is no such thing as a stupid question, just poorly made ones. For the best results, use the guidlines discussed.
