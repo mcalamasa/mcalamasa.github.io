@@ -11,18 +11,14 @@ labels:
 <img class="ui image" src="{{ site.baseurl }}/images/smartQuestionMeme.png">
 
 # Is there such a thing as a stupid question?
-There is one sentence many teachers have used over the years to encourage their students to seak help in class and that is "there's no such thing as a stupid question." This I agree with, every question is an effort to understand an aspect of the world. This sentence encourages people to ask questions no matter how silly they think it may be. It is very likely that there are others who many not know the answer to this "stupid question" and are too afraid to ask. The person asking the question not only help themselves, but also those who are also confused.
+There is one sentence many teachers have used over the years to encourage their students to seak help in class and that is "there's no such thing as a stupid question." This I agree with, every question is an effort to understand an aspect of the world. This sentence encourages people to ask questions no matter how silly they think it may be. It is very likely that there are others who many not know the answer to this "stupid question" and are too afraid to ask. The person asking the question not only help themselves, but also those who are also confused. Though lets not say there are no illformatted questions.
 
-Though lets not say there are no illformatted questions. 
+Eric Raymond's essay [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) provides a guideline on how to ask smart questions and be effiecient with not only your time, but other programmers or "hackers" as well.
 
-First, search StackOverflow for a question submitted by a developer that demonstrates the “smart way”. Such a question should follow the precepts established by Raymond. In addition, the answers provided by the community should demonstrate that asking a question the smart way leads to both efficient and effective help.
-
-Next, you will search for a question submitted by a different developer that demonstrates the “not smart way”. In other words, this question violates the principles established by Raymond. In addition, the answers provided by the community should demonstrate that asking a question in a “not smart” way does not lead to both effective and efficient help
-
-Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
-
-# What is the "smart way"?
-
+# A Smart Question
+[Here](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) is an example of a smart question. This developer is confused as to why a sorted array processes faster than an unsorted array. Not only did he make sure he was right by testing code in two different languages, but he also provide the code so others can test it out. The title is ppropriate and informative. This question is favorited by a high number of people and has an even higher number of people voting it up. It can be seen by the many lengthy explinations containing many visual help, it was recieved as a good question.
+# A Bad Question
+[Here](https://stackoverflow.com/questions/44674997/or-c-struct-accessor) is an example of a bad question.
 # Why is it important for software engineers?
 I believe computer engineering brings many possibilities. By gaining lifelong learning skills, not only will I stay updated in software developments, but also with the younger generation. Hopefully I won't be totally confused with technology when I become a grandma. I am excited for all the experiences I will have with the people in my field. Overall, no matter the direction I take with software engineering, I hope to create products that I am proud of and can financially benefit me.
 
