@@ -9,7 +9,7 @@ labels:
   - Lifelong Learning 
   - Cyber Security
 ---
-
+<img class="ui medium left floated image" src="../images/computer.png">
 A contributing factor in my decision to major in computer engineering is my belief in computers being our future. Computers enable us to do so many things. The huge desktops they had way back when are incomparable to the small mobile devices we call cellphones today. Not only were we able to shrink a computer to fractions of what they used to be, but it is also capable of many more things. 
 
 # Lifelong Learning 
