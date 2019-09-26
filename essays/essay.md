@@ -26,7 +26,7 @@ labels:
 
 
 # My experience
-<img class="ui medium left floated image" src="../images/curlyBracketMeme.png">
+<img class="ui medium left floated image" src="../images/curlyBracketMeme.jpg">
 
  Remember all those times your code wouldn't compile because you forgot a semicolon or a curly bracket somewhere in your code? This is a very common error many programers have
  - only negative thing is all the spaces you have to remember to put
