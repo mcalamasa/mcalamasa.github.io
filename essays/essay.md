@@ -1,22 +1,36 @@
 ---
 layout: essay
 type: essay
-title: Computers are the Future
+title: Coding Without Coding Standards is Filthy
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-06
+date: 2019-09-26
 labels:
+  - Coding Standards
   - Software Engineering
-  - Lifelong Learning 
-  - Cyber Security
+  - ESLint
+  - Intellij
 ---
-<img class="ui medium left floated image" src="../images/computer.png">
-A contributing factor in my decision to major in computer engineering is my belief in computers being our future. Computers enable us to do so many things. The huge desktops they had way back when are incomparable to the small mobile devices we call cellphones today. Not only were we able to shrink a computer to fractions of what they used to be, but it is also capable of many more things. 
+ - efficiency
+ - easy to update in the future
+ - pretty
 
-# Lifelong Learning 
-With the ever evolving computers, it is important to gain lifelong learning skills. With all of the different programming languages we have now, it is important to efficiently learn new languages. Computer software knowledge only stays relevant for a couple of years before something new and better comes out. I want to be able to stay updated and learn languages efficiently.
+ Coding without using a coding standard is like a Fabreezee commercial. Random people are asked to volunteer in a Fabreezee experiment. If they agree, they are brought into a filthy room with a blindfold on. They then proceed to sniff around and explain what they are smelling. They all describe pleasant aromas because the room has been sprayed with Fabreezee. Finally, they take off the blindfold fold and are surprised to see all the dirt and filth.
 
-# Skills
-There are so many possibilities with software engineering, thus there are so many things I am interested in. I am intrigued in cyber security. Our devices contain very important information about us and it is important to make sure no one's privacy is being invaded. I am also very interested in web and game development. I would like to be able to make respoonsive websites, but I would rather develop apps. Whether they be games or informative apps, I want them to be buildable to continuously add features and updates.
+ Having a code that compiles and works as intended without using a coding standard is like a filthy room sprayed with Fabreezee. Once your collaborators or boss opens up your code, it's like taking the blindfold off.
 
-# Final Thoughts 
-I believe computer engineering brings many possibilities. By gaining lifelong learning skills, not only will I stay updated in software developments, but also with the younger generation. Hopefully I won't be totally confused with technology and be compatred to a grandma years from now. I am excited for all the experiences I will have with the people in my field. Overall, no matter the direction I take with computer engineering, I hope to create products that I am proud of and can financially benefit me.
+# Why are coding standards important
+- looks pretty and easy to read
+- other people or even you yourself can read it easily
+- in turn you/collaborators can easily update and maintain
+- easier to look for bugs
+
+
+# My experience
+<img class="ui medium left floated image" src="../images/curlyBracketMeme.png">
+
+ Remember all those times your code wouldn't compile because you forgot a semicolon or a curly bracket somewhere in your code? This is a very common error many programers have
+ - only negative thing is all the spaces you have to remember to put
+ -  
+
+# Final Thoughts
+I believe computer engineering brings many possibilities. By gaining lifelong learning skills, not only will I stay updated in software developments, but also with the younger generation. Hopefully I won't be totally confused with technology and be compared to a grandma years from now. I am excited for all the experiences I will have with the people in my field. Overall, no matter the direction I take with computer engineering, I hope to create products that I am proud of and can financially benefit me.
