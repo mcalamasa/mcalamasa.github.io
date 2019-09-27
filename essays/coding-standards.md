@@ -10,13 +10,14 @@ labels:
   - ESLint
   - Intellij
 ---
+<img class="ui medium right floated image" src="../images/badCodeMeme.jpg">
 
  Coding without using a coding standard is like a Fabreezee commercial. Random people are asked to volunteer in a Fabreezee experiment. If they agree, they are brought into a filthy room with a blindfold on. They then proceed to sniff around and explain what they are smelling. They all describe pleasant aromas because the room has been sprayed with Fabreezee. Finally, they take off the blindfold fold and are surprised to see all the dirt and filth.
 
  Having a code that compiles and works as intended without using a coding standard is like a filthy room sprayed with Fabreezee. Once your collaborators or boss opens up your code, it's like taking the blindfold off.
 
 # My experience
-<img class="ui medium left floated image" src="../images/curlyBracketMeme.jpg">
+<img class="ui medium right floated image" src="../images/CurlyBraceMeme.png">
 
  Remember all those times your code wouldn't compile because you forgot a semicolon or a curly brace somewhere in your code? Ask any programmer and they would be able to relate to your struggles. When I first started writing code I almost always had this problem. I eventually typed both start and end curly braces first, then wrote the code block. I also made the end curly brace on its own line. Already, I made my own little coding standard.
 
