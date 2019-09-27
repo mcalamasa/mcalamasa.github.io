@@ -10,7 +10,7 @@ labels:
   - ESLint
   - Intellij
 ---
-<img class="ui medium right floated image" src="../images/badCodeMeme.jpg">
+<img class="ui medium left floated image" src="../images/badCodeMeme.JPG">
 
  Coding without using a coding standard is like a Fabreezee commercial. Random people are asked to volunteer in a Fabreezee experiment. If they agree, they are brought into a filthy room with a blindfold on. They then proceed to sniff around and explain what they are smelling. They all describe pleasant aromas because the room has been sprayed with Fabreezee. Finally, they take off the blindfold fold and are surprised to see all the dirt and filth.
 
