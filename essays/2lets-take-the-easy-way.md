@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Why Not Take The Easy Way?
+title: Lets Take The Easy Way
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 labels:
