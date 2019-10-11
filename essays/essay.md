@@ -10,7 +10,7 @@ labels:
   - Framework
   - Intellij
 ---
-<img class="ui medium left floated image" src="../images/semanticmeme1.jpg">
+<img class="ui small left floated image" src="../images/semanticmeme1.jpg">
 
  Throughout my education, the routine when learning something new is to first learn the concept, then the shortcuts. Learning about developing UI is like learning about calculating the area under a curve. In calculus, when learning how to calculate the area under a curve, we first learned about riemann sums, then about integrals. Calculating a riemann sum is basically dividing the curve into a bunch of rectangles and summing the area of rectangles. The more rectangles there are, the more accurate your approximation is. All of that work, just for an approximation. When we got the hang of it, we learned about integrals. We did have to memorize the integrals of basic functions, but at least we didn't have to make a bunch of rectangles and calculate the area for each of them and we got the actual area under the curve. Riemann sums were important, because it taught us the concept of what is happening when we take the integral of an equation.
 
@@ -18,7 +18,7 @@ labels:
 
 # Semantic UI
 
-<img class="ui medium left floated image" src="../images/semanticLogo.png">
+<img class="ui small left floated image" src="../images/semanticLogo.png">
 
  I've only recently learned about implementing user interphases. To be honest, raw html and css is a pain. Imagine wanting to make an image on the center of the screen. When using raw html and css, you would have to guess the padding for the top and the left of the image. Of course your guess would be wrong and you would have to slowly add padding until it finally looks like it's in the center. Unfortunately, when you change the size of the page, your image is no longer in the middle and all the work and time you put into this has been wasted. If only you could just say that the object is in the middle.
 
