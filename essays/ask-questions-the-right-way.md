@@ -29,3 +29,17 @@ Notice that there is a link for another much older question asking the same thin
 
 # Final Thoughts
 Being able to ask "smart questions" is very important in software engineering. Software is continuously evolving and improving, so much so that there may not be updated textbooks or helpful educational sites for new things. Also, sometimes just reading a book is not a very good way of learning something new. To keep up with software, developers must be able to communicate efficiently and effectively with each other. When making big projects, a software engineer will most likely work in a team. It would be more efficient to ask a smart question and get a quick reply, than to converse back and forth just because not enough information was provided. It is enjoyable to help others understand something that fascinates you and something you've worked so hard on, but like Eric Raymond said, no one would want to waste their time on people who aren't participating in finding a solution. There is no such thing as a stupid question, just poorly made ones. For the best results, use the guidelines discussed in Eric Raymons's essay.
+
+<div class="ui bulleted list">
+  <div class="item">Gaining Access</div>
+  <div class="item">Inviting Friends</div>
+  <div class="item">
+    <div>Benefits</div>
+    <div class="list">
+      <a class="item" href="#">Link to somewhere</a>
+      <div class="item">Rebates</div>
+      <div class="item">Discounts</div>
+    </div>
+  </div>
+  <div class="item">Warranty</div>
+</div>
