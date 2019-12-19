@@ -14,10 +14,12 @@ labels:
 summary: A web application with the goal to provide a safe space for UH Manoa students to easily coordinate carpools.
 ---
 
-<img class="ui medium floated rounded image" src="../images/uhberLanding.png">
+<img class="ui medium floated rounded image" src="../images/traffic.jpg">
 
 Many UH Manoa students commute to school from other parts of the island and unfortunately Manoa is in Honolulu, which according to this <a href="https://www.hawaiinewsnow.com/2019/02/13/new-report-says-honolulus-traffic-is-pretty-bad-its-not-worst/">news article</a> is the 18th most congested and worst city for traffic in the United States. I too commute to school every morning and if I leave between 6:30am and 8:00 it takes me about an hour to get to school.
 Then I also have to deal with traffic on the way home. This takes a big chunk of my money, gas, and with a lot of people commuting everyday it is very bad for the environment. My team and I made UHber to help UH Manoa students save money, energy, and time (by enabling them to use the express and carpool lanes). On a larger scale, UHber helps the environment by decreasing the amount of daily drivers.
+
+<img class="ui medium right floated image" src="../images/uhberLanding.png">
 
 A user can create an account and a profile. Once logged in a user can see the list of available rides. The rides on this page were created by other users who are offering to drive another student either to UH Manoa from a specific city or from UH Manoa to their home city. They also don't have a rider yet. The user can also offer a ride. Finally, the user can see when they are planned to drive someone and when they are riding with someone else.
 
