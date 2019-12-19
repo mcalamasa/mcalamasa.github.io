@@ -23,6 +23,7 @@ Using coding standards make code more appealing and easier to read and understan
 # Smart Questions
 In ICS 314 we learned about open source software development
 which means the source code for the project is open to the public for others to use and for developers to improve. With so many developers contributing to these source codes, starting to first use it and understand the code can be very intimidating, confusing, and you are more likely than not going to face problems. Thus, it is important to ask smart questions.
+
 <img class="ui medium left floated image" src="../images/question.jpeg">
 
 Asking smart questions improves the probability of getting useful answers. Asking smart questions entail sample code so others can replicate the problem, an explanation on the efforts done to solve it to show there was effort made, and a good explanation on what exactly the problem is. Also, the question has to be on the forum as others will ignore or be hostile otherwise. Being able to ask smart questions will useful in just about anything.
@@ -30,7 +31,8 @@ Asking smart questions improves the probability of getting useful answers. Askin
 # Agile Project Management
 <img class="ui medium left floated image" src="../images/agileDevelopment.png">
 Being able to work in a team is so important that schools start teaching team work as early as elementary school. Project management structures the work to be done in a way that maximizes parallelism. This means making sure everyone on the team is working and making advancements at the same time. Agile project management is a form of project management where large projects are broken into smaller more manager tasks. These tasks are done quickly enabling the team to adapt to change and deliver quickly. Each release has a deadline and delivers functionality. In ICS 314, we used issue driven project management for our final project.
-<img class="ui medium left floated image" src="../images/M1ProjectBoard.png">
+
+<img class="ui large image" src="../images/M1ProjectBoard.png">
 
 Issue driven project management is a type of agile project management where the project is divided into milestones and milestones are considered done at the deadline, not when a set of issues are completed. For this type of management, we used automated Kanban boards. Each team member has exactly one issue assigned to them in the in progress section. There are always tasks in the back log for a member to work on when their current issue is done. Finally, when an issue is completed and closed , it automatically moves to the done section.
 Issue driven project management can be used in many projects that consist of a small team. It is best for projects that start with a base and are then added to. I could have used it for my EE296 project where we had to make a micro-mouse that searched for a way out of a maze. This project management would have prevented procrastination and encouraged us to actually do work since it is broken into small, easy, and fast to do tasks.

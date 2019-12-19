@@ -34,4 +34,4 @@ In an earlier milestone I made the sign up page. I've deployed UHber and updated
 I came out of this project appreciating agile project management. With set deadlines and mini presentations for each milestone, we were forced to work on the project continuously instead of procrastinating and waiting until a couple of days before the project was due to start working on it. It also greatly decreased the amount of merge conflicts as we knew what each person was doing and hardly changed the same files at the same time. If there were merge conflicts, they were easy to resolve. I used to think it was near impossible to work on the same code as others at the same time, but with agile project management, we were able to add to the project at the same time.
 
 Visit UHber <a href="http://uhber.meteorapp.com/#/">here.</a>
-See the source codes at <a href="https://github.com/UHBer/"><i class="large github icon"/>UHber's Organization GitHub Pages
+See the source codes at <a href="https://github.com/UHBer/"><i class="large github icon"/>UHber's Organization GitHub Pages.</a>
