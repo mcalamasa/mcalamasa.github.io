@@ -63,7 +63,8 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++"
+        "g++",
+        "Intelij IDEA"
       ]
     },
     {
@@ -104,7 +105,7 @@
        "Assist customers to and in the fitting room.",
        "Greet and assist customers at the sales floor."
      ],
-     
+
    },
    {
      "company": "TacoBell",
