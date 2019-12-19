@@ -29,7 +29,7 @@ An agile project management to maximize parallelism by ensuring that everyone on
 
 My main contribution to UHber are the functionalities that deal with the rides. I made the ride cards, default rides, and default accounts to use them as riders and drivers in the default rides. I also made all the pages that shows different variations of ride lists. I made the available rides page to enable users to filter the list by cities.
 
-In an earlier milestone I made the sign up page. I've deployed UHber and updated the organization page for one of the milestones.
+In an earlier milestone I made the sign up page. I've deployed UHber and updated the organization page for one of the milestones. I also made one of the logos.
 
 I came out of this project appreciating agile project management. With set deadlines and mini presentations for each milestone, we were forced to work on the project continuously instead of procrastinating and waiting until a couple of days before the project was due to start working on it. It also greatly decreased the amount of merge conflicts as we knew what each person was doing and hardly changed the same files at the same time. If there were merge conflicts, they were easy to resolve. I used to think it was near impossible to work on the same code as others at the same time, but with agile project management, we were able to add to the project at the same time.
 
