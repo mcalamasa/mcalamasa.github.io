@@ -11,7 +11,7 @@ labels:
   - Basys3 Board
   - Vivado Xilinx
 
-summary: A ping pong game my team developed for our EE 396 project.
+summary: A single player ping pong game implemented on a Basys3 board and monitor. 
 ---
 
 My team and I created a pong game by using a Basys3 board as our FPGA and a small monitor to show the graphics. We used Xilinx vivado to program the board and the monitor in verilog.

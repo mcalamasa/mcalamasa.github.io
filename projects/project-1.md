@@ -10,10 +10,10 @@ labels:
   - C++
   - Object Oriented Programming
 
-summary: My team developed a text based café shop for EE 205, object oriented programming.
+summary: A café shop application that allows the user to order from an imaginary café. It is implemented using object oriented programming and runs on terminal.
 ---
 
-Overtime restaurants and shops have made applications that allow their customers to view and shop for their items without leaving their homes. My café does just that, but for an imaginary cafe. It communicates with the user using text. It is implemented with object oriented programming and runs on terminal.
+Overtime restaurants and shops have made applications that allow their customers to view and shop for their items without leaving their homes. My café does just that, but for an imaginary café. It communicates with the user using text. It is implemented with object oriented programming and runs on terminal.
 
 <img class="ui medium right floated rounded image" src="../images/coffee.jpeg">  
 

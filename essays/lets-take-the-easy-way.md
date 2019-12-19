@@ -10,7 +10,7 @@ labels:
   - Framework
   - Intellij
 ---
-<img class="ui small left floated image" src="../images/shortcuts.png>
+<img class="ui small left floated image" src="../images/shortcuts.png">
  Throughout my education, the routine when learning something new is to first learn the concept, then the shortcuts. Learning about developing UI is like learning about calculating the area under a curve. In calculus, when learning how to calculate the area under a curve, we first learned about Riemann sums, then about integrals. Calculating a Riemann sum is basically dividing the curve into a bunch of rectangles and summing the area of rectangles. The more rectangles there are, the more accurate your approximation is. All of that work, just for an approximation. When we got the hang of it, we learned about integrals. We did have to memorize the integrals of basic functions, but at least we didn't have to make a bunch of rectangles and calculate the area for each of them and we got the actual area under the curve. Riemann sums were important, because it taught us the concept of what is happening when we take the integral of an equation.
 
  When developing UI, you have to first learn simple things like various elements and how to manipulate them. Once you completely understand it and are somewhat adept in it, you can start to use short cuts, or UI frameworks. Just like how we never used Riemann sums again after learning integrals, raw html and css should be avoided once you learn frameworks for the sake of time, accuracy, and consistency.
